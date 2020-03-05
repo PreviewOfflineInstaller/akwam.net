@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /o2cp/
+Disallow: /admin/
+Disallow: /ajax/
+Disallow: /ads/
